@@ -67,5 +67,8 @@
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
         }
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.6.3"
     }
 }
